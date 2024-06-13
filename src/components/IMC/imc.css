@@ -1,0 +1,55 @@
+.imc-form {
+    font-family: Roboto;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .imc-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .imc-input-container {
+    margin-bottom: 15px;
+  }
+  
+  .imc-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .imc-input {
+    width: 95%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .imc-button {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .imc-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .imc-resultado {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
